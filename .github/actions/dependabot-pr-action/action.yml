@@ -1,0 +1,11 @@
+name: Dependabot Pull Request Action
+author: ps-content-and-enablement
+description: validation action for this exercise
+
+inputs:
+  context:
+    description: The GitHub context for the action run
+    required: true
+runs:
+  using: node12
+  main: "dist/index.js"
