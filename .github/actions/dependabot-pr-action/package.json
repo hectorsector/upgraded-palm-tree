@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/githubtraining/exercise-use-dependabot#readme",
   "dependencies": {
-    "@actions/core": "^1.4.0"
+    "@actions/core": "^1.9.1"
   }
 }
